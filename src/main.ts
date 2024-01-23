@@ -24,5 +24,4 @@ document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
 setupCounter(document.querySelector<HTMLButtonElement>('#counter')!)
 
 
-import './style.css'
-import './style.scss'
+
